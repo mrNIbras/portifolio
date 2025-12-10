@@ -4,7 +4,7 @@ This directory contains the `Hero.jsx` component, a dynamic and visually engagin
 
 ## Features
 
-Live Demo: portifolio-1wdmprjv6-ramadans-projects-fbe22b33.vercel.app
+<a href="https://portifolio-1wdmprjv6-ramadans-projects-fbe22b33.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo"></a>
 
 - **Full-Screen Welcome:** A responsive, full-viewport hero section that makes a strong first impression.
 - **Dynamic Background:** Features a background image with a configurable gradient overlay for better text readability.
