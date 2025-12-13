@@ -21,8 +21,8 @@ const projects = [
     title: "Quiz Game Platform",
     description: "Interactive quiz app with timer, score tracking, and REST API backend for questions.",
     tech: ["React", "JavaScript", "Node.js", "MongoDB"],
-    link: "#",
-    github: "#",
+    link: "https://quiz-master-sandy-two.vercel.app/",
+    github: "https://github.com/mrNIbras/quiz_Master",
   },
 ];
 
