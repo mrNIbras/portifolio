@@ -14,8 +14,8 @@ const projects = [
     title: "Interactive Todo App",
     description: "Feature-rich todo application with drag-and-drop, filters, and MongoDB persistence.",
     tech: ["React", "Node.js", "Express", "MongoDB"],
-    link: "#",
-    github: "#",
+    link: "https://todo-app-eight-theta-52.vercel.app/",
+    github: "https://github.com/mrNIbras/Todo-App",
   },
   {
     title: "Quiz Game Platform",
