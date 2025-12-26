@@ -31,7 +31,7 @@ const Projects = () => {
     <section id="projects" className="py-20 px-4">
       <div className="container mx-auto max-w-6xl">
         <h2 className="text-4xl md:text-5xl font-bold mb-12 text-center bg-gradient-primary bg-clip-text text-transparent">
-          Project Ideas
+          Projects
         </h2>
         
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
