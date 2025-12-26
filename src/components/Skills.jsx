@@ -1,26 +1,26 @@
 import { Card } from "./ui/card";
-import { Code2, Database, Laptop, Smartphone } from "lucide-react";
+import { Code2, Database, Wrench, Lightbulb } from "lucide-react";
 
 const skills = [
   {
     icon: Code2,
-    title: "Frontend",
-    items: ["HTML", "CSS", "JavaScript", "React"],
+    title: "Frontend Development",
+    items: ["React (Hooks, state management)", "Tailwind CSS & Bootstrap", "Responsive and mobile-first design", "UI/UX implementation"],
   },
   {
     icon: Database,
-    title: "Backend",
-    items: ["Node.js", "Express", "MongoDB", "REST APIs"],
+    title: "Backend Development",
+    items: ["Node.js & Express", "REST API design", "Authentication & authorization", "MongoDB (schema design, CRUD operations)"],
   },
   {
-    icon: Laptop,
+    icon: Wrench,
     title: "Frameworks & Tools",
-    items: ["Bootstrap", "Tailwind CSS", "Git", "GitHub"],
+    items: ["Git & GitHub", "API integration", "Deployment workflows", "Debugging & performance optimization"],
   },
   {
-    icon: Smartphone,
-    title: "Design & Problem Solving",
-    items: ["Responsive Design", "UI/UX", "Creative Solutions", "Debugging"],
+    icon: Lightbulb,
+    title: "Problem Solving",
+    items: ["Translating requirements into working systems", "Designing scalable application structures", "Writing clean, maintainable code"],
   },
 ];
 

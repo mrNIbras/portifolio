@@ -5,21 +5,21 @@ import { ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     title: "Weather Dashboard",
-    description: "Beautiful weather app using public APIs to display current weather, forecasts, and interactive maps.",
-    tech: ["React", "JavaScript", "Node.js", "Express", "Tailwind"],
+    description: "A responsive weather application demonstrating API integration, error handling, and clean UI design. Suitable for dashboards and data-driven web applications.",
+    tech: ["React", "JavaScript", "Node.js", "Express", "Tailwind CSS"],
     link: "https://weather-dashboard-jeh1.onrender.com/",
     github: "https://github.com/mrNIbras/weather-Dashboard",
   },
   {
-    title: "Interactive Todo App",
-    description: "Feature-rich todo application with drag-and-drop, filters, and MongoDB persistence.",
+    title: "Interactive Todo Application",
+    description: "A full-stack productivity system with persistent data storage and REST APIs, similar to internal business or admin tools.",
     tech: ["React", "Node.js", "Express", "MongoDB"],
     link: "https://todo-app-eight-theta-52.vercel.app/",
     github: "https://github.com/mrNIbras/Todo-App",
   },
   {
     title: "Quiz Game Platform",
-    description: "Interactive quiz app with timer, score tracking, and REST API backend for questions.",
+    description: "An interactive assessment platform featuring timers, scoring, and backend APIs, applicable to schools and training centers.",
     tech: ["React", "JavaScript", "Node.js", "MongoDB"],
     link: "https://quiz-master-sandy-two.vercel.app/",
     github: "https://github.com/mrNIbras/quiz_Master",
