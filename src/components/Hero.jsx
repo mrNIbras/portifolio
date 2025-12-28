@@ -30,7 +30,7 @@ const Hero = () => {
             Full-Stack Developer | React & Node.js
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-            I build secure, scalable, and user-friendly web applications for schools, startups, and small businesses — from clean interfaces to reliable backend systems.
+            I build fast, modern, responsive web solutions for real use cases
           </p>
           <p className="text-base md:text-lg text-muted-foreground mb-12 max-w-xl mx-auto">
             Primary stack: React, Tailwind CSS, Node.js, Express, MongoDB | Available for: Freelance & Remote Opportunities
