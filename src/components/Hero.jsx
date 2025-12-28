@@ -27,7 +27,7 @@ const Hero = () => {
             className="w-40 h-40 rounded-full border-4 border-primary/50 shadow-lg shadow-primary/20 object-cover mx-auto mb-8"
           />
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-primary bg-clip-text text-transparent">
-            Full-Stack Developer | React & Node.js
+            Ramadan — Full-Stack Web Developer
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
             I build fast, modern, responsive web solutions for real use cases
