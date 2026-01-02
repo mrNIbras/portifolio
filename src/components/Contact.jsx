@@ -34,12 +34,12 @@ const Contact = () => {
     <section id="contact" className="py-20 px-4 bg-secondary/30">
       <div className="container mx-auto max-w-4xl">
         <h2 className="text-4xl md-5xl font-bold mb-12 text-center bg-gradient-primary bg-clip-text text-transparent">
-          Get In Touch
+          Contact
         </h2>
 
         <Card className="p-8 bg-card/50 backdrop-blur-sm border-border/50 hover:shadow-glow transition-all duration-300">
           <p className="text-lg text-muted-foreground text-center mb-8">
-            I am open to discussing freelance projects, remote roles, and long-term collaborations.
+            I am open to freelance projects, collaborations, and remote opportunities.
           </p>
           
           <div className="grid sm:grid-cols-2 gap-4">

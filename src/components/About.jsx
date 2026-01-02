@@ -10,13 +10,16 @@ const About = () => {
         
         <Card className="p-8 bg-card/50 backdrop-blur-sm border-border/50 hover:shadow-glow transition-all duration-300">
           <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            I am a full-stack developer focused on building practical web solutions that solve real business problems. I work across the full development lifecycle — from responsive frontend interfaces to RESTful backend APIs and database design.
+            I am a full-stack web developer with a strong focus on building reliable, maintainable, and performance-driven web applications.
           </p>
           <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            My experience includes developing dashboards, management systems, and interactive applications using React, Node.js, Express, and MongoDB. I prioritize clean code, performance, and usability to ensure applications are both maintainable and effective.
+            On the frontend, I work with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React to create clean and responsive user interfaces. On the backend, I build RESTful APIs and application logic using Node.js, Express, and MongoDB.
+          </p>
+          <p className="text-lg text-muted-foreground leading-relaxed mb-6">
+            I enjoy solving real-world problems through code, improving user experience, and continuously learning new technologies to deliver better results on every project.
           </p>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            I enjoy turning ideas into functional systems and continuously improving my skills by building real-world projects and refining best practices.
+            I focus on writing clean, maintainable code and delivering solutions that are easy to scale and easy for clients to manage.
           </p>
         </Card>
       </div>

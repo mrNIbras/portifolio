@@ -29,17 +29,23 @@ const Hero = () => {
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-primary bg-clip-text text-transparent">
             Ramadan — Full-Stack Web Developer
           </h1>
-          <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-            I build fast, modern, responsive web solutions for real use cases
+          <p className="text-xl md:text-2xl text-muted-foreground mb-4 max-w-3xl mx-auto">
+            I design and build fast, responsive, and scalable web applications using modern frontend and backend technologies.
+          </p>
+          <p className="text-lg text-muted-foreground mb-8 max-w-3xl mx-auto">
+            Specialized in turning ideas into clean, functional, and user-friendly digital products.
+          </p>
+          <p className="text-base md:text-lg text-muted-foreground mb-6 max-w-xl mx-auto">
+            Primary stack: React, Tailwind CSS, Node.js, Express, MongoDB
           </p>
           <p className="text-base md:text-lg text-muted-foreground mb-12 max-w-xl mx-auto">
-            Primary stack: React, Tailwind CSS, Node.js, Express, MongoDB | Available for: Freelance & Remote Opportunities
+            Available for freelance and remote work
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Button
               size="lg"
-              className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-glow transition-all hover:scale-105"
+              className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-glow transition-all hover:scale-105 px-8"
               onClick={() => scrollToSection('projects')}
             >
               View Projects
@@ -47,7 +53,7 @@ const Hero = () => {
             <Button
               size="lg"
               variant="outline"
-              className="border-primary text-foreground hover:bg-primary/10"
+              className="border-primary text-foreground hover:bg-primary/10 px-8"
               onClick={() => scrollToSection('contact')}
             >
               Contact Me

@@ -5,22 +5,22 @@ const skills = [
   {
     icon: Code2,
     title: "Frontend Development",
-    items: ["React (Hooks, state management)", "Tailwind CSS & Bootstrap", "Responsive and mobile-first design", "UI/UX implementation"],
+    items: ["HTML, CSS, JavaScript", "React", "Responsive and mobile-first design"],
   },
   {
     icon: Database,
     title: "Backend Development",
-    items: ["Node.js & Express", "REST API design", "Authentication & authorization", "MongoDB (schema design, CRUD operations)"],
+    items: ["Node.js, Express", "MongoDB", "RESTful APIs"],
   },
   {
     icon: Wrench,
-    title: "Frameworks & Tools",
-    items: ["Git & GitHub", "API integration", "Deployment workflows", "Debugging & performance optimization"],
+    title: "Tools & Frameworks",
+    items: ["Tailwind CSS, Bootstrap", "Git, GitHub"],
   },
   {
     icon: Lightbulb,
-    title: "Problem Solving",
-    items: ["Translating requirements into working systems", "Designing scalable application structures", "Writing clean, maintainable code"],
+    title: "Design & Problem Solving",
+    items: ["UI/UX fundamentals", "Debugging and optimization", "Clean and maintainable code"],
   },
 ];
 
